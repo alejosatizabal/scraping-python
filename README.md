@@ -2,5 +2,5 @@
 
 Revisar si hay algo previo que instalar
 
-Repositorio original del ejemplo
-  https://github.com/ifrankandrade/data-collection
+Repositorio original del ejemplo<p>
+<nbsp><nbsp><nbsp>https://github.com/ifrankandrade/data-collection
