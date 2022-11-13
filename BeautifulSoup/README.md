@@ -1,4 +1,8 @@
 # scraping-python
+## BeautifulSoup
+
+Video de referencia
+    https://www.youtube.com/watch?v=kPNHKrOqedI
 
 Para BeautifulSoup hay que instalar
 
