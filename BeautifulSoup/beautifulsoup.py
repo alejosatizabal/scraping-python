@@ -25,7 +25,7 @@ for producto in productos:
         {
             'name': producto.get('data-name'),
             'url': producto.get('data-url'),
-            'image-url': producto.get('data-image-url'),
+            'imageUrl': producto.get('data-image-url'),
             'price': producto.get('data-price'), 
         },
     )
